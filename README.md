@@ -1,4 +1,5 @@
 📊 Sales Performance Dashboard
+
 📝 Short Description:
 
 This dashboard provides a comprehensive overview of sales performance to support data-driven decision-making. It enables supervisors and stakeholders to monitor key sales metrics across products, regions, and teams, facilitating strategic planning and operational efficiency.
@@ -43,3 +44,4 @@ Monitor volume trends across all products.
 Utilize drill-downs and filters for deeper, on-demand insights.
 
 🖼️ Dashboard Screenshot:
+https://github.com/ef5353/Sales-Dashboard/blob/main/Snapshot%20of%20Dashboard.JPG
