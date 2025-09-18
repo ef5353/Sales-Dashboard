@@ -1,4 +1,4 @@
-📊 Sales Performance Dashboard
+ Sales Performance Dashboard
 
 📝 Short Description:
 
@@ -43,5 +43,5 @@ Monitor volume trends across all products.
 🎯 Interactive Visuals
 Utilize drill-downs and filters for deeper, on-demand insights.
 
-🖼️ Dashboard Screenshot:
+Dashboard Screenshot:
 https://github.com/ef5353/Sales-Dashboard/blob/main/Snapshot%20of%20Dashboard.JPG
